@@ -15,6 +15,9 @@ namespace Hyperf\Framework;
 use Psr\Http\Message\ResponseInterface;
 use Throwable;
 
+/**
+ * @deprecated
+ */
 abstract class ExceptionHandler
 {
     /**

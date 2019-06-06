@@ -18,6 +18,9 @@ use Psr\Container\ContainerInterface;
 use Psr\Http\Message\ResponseInterface;
 use Throwable;
 
+/**
+ * @deprecated
+ */
 class ExceptionHandlerDispatcher extends AbstractDispatcher
 {
     /**
